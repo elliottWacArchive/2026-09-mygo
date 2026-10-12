@@ -1,0 +1,8 @@
+/guesswhat
+web/dist
+server/dist
+node_modules
+.docs
+*.db
+*.db-shm
+*.db-wal
